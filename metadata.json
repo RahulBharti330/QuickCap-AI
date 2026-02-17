@@ -1,0 +1,7 @@
+{
+  "name": "QuickCap AI",
+  "description": "A lightning-fast, AI-powered task capture assistant. Features intelligent task analysis, subtask generation, and witty motivational feedback using Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
